@@ -1,0 +1,224 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+studentportal
+</name>
+</assembly>
+<members>
+<member name="T:student_portal.DataSet1.UtilityDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:student_portal.DataSet1.UtilityRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:student_portal.DataSet1.UtilityRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:student_portal.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:student_portal.StudentUtilityDataSet.StudentTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:student_portal.StudentUtilityDataSet.StudentTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:student_portal.StudentUtilityDataSet.StudentTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:student_portal.StudentUtilityDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:student_portal.StudentUtilityDataSetTableAdapters.StudentTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:student_portal.StudentUtilityDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(student_portal.StudentUtilityDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:student_portal.StudentUtilityDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(student_portal.StudentUtilityDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:student_portal.StudentUtilityDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(student_portal.StudentUtilityDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:student_portal.StudentUtilityDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:student_portal.StudentUtilityDataSetTableAdapters.TableAdapterManager.UpdateAll(student_portal.StudentUtilityDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:student_portal.StudentUtilityDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:student_portal.StudentUtilityDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:student_portal.StudentUtilityDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:student_portal.StudentUtilityDataSet1.StudentTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:student_portal.StudentUtilityDataSet1.StudentTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:student_portal.StudentUtilityDataSet1.StudentTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:student_portal.StudentUtilityDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:student_portal.StudentUtilityDataSet1TableAdapters.StudentTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:student_portal.StudentUtilityDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(student_portal.StudentUtilityDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:student_portal.StudentUtilityDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(student_portal.StudentUtilityDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:student_portal.StudentUtilityDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(student_portal.StudentUtilityDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:student_portal.StudentUtilityDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:student_portal.StudentUtilityDataSet1TableAdapters.TableAdapterManager.UpdateAll(student_portal.StudentUtilityDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:student_portal.StudentUtilityDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:student_portal.StudentUtilityDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:student_portal.StudentUtilityDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:student_portal.LogInFormDatabaseDataSet.Table2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:student_portal.LogInFormDatabaseDataSet.UtilityDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:student_portal.LogInFormDatabaseDataSet.Table2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:student_portal.LogInFormDatabaseDataSet.UtilityRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:student_portal.LogInFormDatabaseDataSet.Table2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:student_portal.LogInFormDatabaseDataSet.UtilityRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:student_portal.LogInFormDatabaseDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:student_portal.LogInFormDatabaseDataSetTableAdapters.Table2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:student_portal.LogInFormDatabaseDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(student_portal.LogInFormDatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:student_portal.LogInFormDatabaseDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(student_portal.LogInFormDatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:student_portal.LogInFormDatabaseDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(student_portal.LogInFormDatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:student_portal.LogInFormDatabaseDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:student_portal.LogInFormDatabaseDataSetTableAdapters.TableAdapterManager.UpdateAll(student_portal.LogInFormDatabaseDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:student_portal.LogInFormDatabaseDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:student_portal.LogInFormDatabaseDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:student_portal.LogInFormDatabaseDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:student_portal.DataSet2.DepartmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:student_portal.DataSet2.DepartmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:student_portal.DataSet2.DepartmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:student_portal.DataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:student_portal.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:student_portal.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:student_portal.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

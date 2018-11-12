@@ -1,0 +1,60 @@
+C:\Users\user1\Documents\Visual Studio 2012\Projects\student portal\student portal\bin\Debug\student portal.exe.config
+C:\Users\user1\Documents\Visual Studio 2012\Projects\student portal\student portal\obj\Debug\student portal.exe
+C:\Users\user1\Documents\Visual Studio 2012\Projects\student portal\student portal\obj\Debug\student portal.xml
+C:\Users\user1\Documents\Visual Studio 2012\Projects\student portal\student portal\obj\Debug\student portal.pdb
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\bin\Debug\student portal.exe.config
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student portal.exe
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student portal.xml
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student portal.pdb
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\bin\Debug\Departmentdb.accdb
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\bin\Debug\Utilitydb.accdb
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\bin\Debug\student portal.exe
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\bin\Debug\student portal.pdb
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\bin\Debug\student portal.xml
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.ConfirmationGpaRegPage.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.CourseReg1.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.CourseReg2.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.DepartmentMenu.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.FacultyMenu.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.GpaCalculator.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.HomePage.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.Form1.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.LoginPage.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.Form2.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.Form3.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.Form4.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.Resources.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.Registration_Page.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.SetupMenu.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.Trial.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\Utility System with user Authentication.vbproj.GenerateResource.Cache
+C:\Users\PSSPC1\Desktop\junior f(3)\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\bin\Debug\student portal.exe.config
+C:\Users\PSSPC1\Desktop\junior f(3)\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student portal.exe
+C:\Users\PSSPC1\Desktop\junior f(3)\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student portal.xml
+C:\Users\PSSPC1\Desktop\junior f(3)\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student portal.pdb
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\bin\Debug\student portal.exe.config
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student portal.exe
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student portal.xml
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student portal.pdb
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\bin\Debug\Departmentdb.accdb
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\bin\Debug\Utilitydb.accdb
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\bin\Debug\student portal.exe
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\bin\Debug\student portal.pdb
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\bin\Debug\student portal.xml
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.ConfirmationGpaRegPage.resources
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.CourseReg1.resources
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.CourseReg2.resources
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.DepartmentMenu.resources
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.FacultyMenu.resources
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.GpaCalculator.resources
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.HomePage.resources
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.Form1.resources
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.LoginPage.resources
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.Form2.resources
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.Form3.resources
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.Form4.resources
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.Resources.resources
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.Registration_Page.resources
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.SetupMenu.resources
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\student_portal.Trial.resources
+C:\Users\PSS-PC2\Documents\Visual Studio 2012\Projects\Utility System with user Authentication\Utility System with user Authentication\obj\Debug\Utility System with user Authentication.vbproj.GenerateResource.Cache

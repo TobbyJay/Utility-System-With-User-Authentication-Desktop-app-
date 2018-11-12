@@ -1,0 +1,26 @@
+c:\users\user1\documents\visual studio 2012\Projects\student portal\student portal\bin\Debug\student portal.exe.config
+c:\users\user1\documents\visual studio 2012\Projects\student portal\student portal\bin\Debug\student portal.exe
+c:\users\user1\documents\visual studio 2012\Projects\student portal\student portal\bin\Debug\student portal.pdb
+c:\users\user1\documents\visual studio 2012\Projects\student portal\student portal\bin\Debug\student portal.xml
+c:\users\user1\documents\visual studio 2012\Projects\student portal\student portal\obj\Debug\student_portal.Form2.resources
+c:\users\user1\documents\visual studio 2012\Projects\student portal\student portal\obj\Debug\student_portal.Form3.resources
+c:\users\user1\documents\visual studio 2012\Projects\student portal\student portal\obj\Debug\student_portal.Form4.resources
+c:\users\user1\documents\visual studio 2012\Projects\student portal\student portal\obj\Debug\student_portal.Resources.resources
+c:\users\user1\documents\visual studio 2012\Projects\student portal\student portal\obj\Debug\student portal.vbproj.GenerateResource.Cache
+c:\users\user1\documents\visual studio 2012\Projects\student portal\student portal\obj\Debug\student portal.exe
+c:\users\user1\documents\visual studio 2012\Projects\student portal\student portal\obj\Debug\student portal.xml
+c:\users\user1\documents\visual studio 2012\Projects\student portal\student portal\obj\Debug\student portal.pdb
+C:\Users\user1\Documents\Visual Studio 2012\Projects\student portal\student portal\obj\Debug\student_portal.Form1.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\student portal\student portal\obj\Debug\student_portal.GpaCalculator.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\student portal\student portal\obj\Debug\student_portal.Registration_Page.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\student portal\student portal\obj\Debug\student_portal.SetupMenu.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\student portal\student portal\obj\Debug\student_portal.DepartmentMenu.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\student portal\student portal\obj\Debug\student_portal.FacultyMenu.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\student portal\student portal\obj\Debug\student_portal.CourseReg1.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\student portal\student portal\obj\Debug\student_portal.CourseReg2.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\student portal\student portal\bin\Debug\Utilitydb.accdb
+C:\Users\user1\Documents\Visual Studio 2012\Projects\student portal\student portal\obj\Debug\student_portal.ConfirmationGpaRegPage.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\student portal\student portal\bin\Debug\Departmentdb.accdb
+C:\Users\user1\Documents\Visual Studio 2012\Projects\student portal\student portal\obj\Debug\student_portal.LoginPage.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\student portal\student portal\obj\Debug\student_portal.Trial.resources
+C:\Users\user1\Documents\Visual Studio 2012\Projects\student portal\student portal\obj\Debug\student_portal.HomePage.resources
